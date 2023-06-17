@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/EGYPT/Documents/GitHub/Datastructures/New folder/linkedList.cpp
+linkedList.h
+C:/Users/EGYPT/Documents/GitHub/Datastructures/New folder/linkedList.h
+iostream
+C:/Users/EGYPT/Documents/GitHub/Datastructures/New folder/iostream
+
+C:/Users/EGYPT/Documents/GitHub/Datastructures/New folder/linkedList.h
+
+C:/Users/EGYPT/Documents/GitHub/Datastructures/New folder/main.cpp
+iostream
+-
+linkedList.h
+C:/Users/EGYPT/Documents/GitHub/Datastructures/New folder/linkedList.h
+linkedList.cpp
+C:/Users/EGYPT/Documents/GitHub/Datastructures/New folder/linkedList.cpp
+
